@@ -1,5 +1,9 @@
 # Where is my fossil? Browser Extension
 
+[![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)](https://github.com/migueldlm/Where-is-my-fossil)
+[![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
+
+
 A browser extension that allows users to search for fossil information from any webpage.
 
 ## Features
@@ -10,6 +14,7 @@ A browser extension that allows users to search for fossil information from any 
 - Simple and fast interface
 
 ## Installation
+
 
 ### Manual Installation
 1. Download the latest release ZIP file
@@ -29,7 +34,6 @@ A browser extension that allows users to search for fossil information from any 
 
 Click on the extension icon in the toolbar and select "Options" to:
 - Adjust popup window size
-- Configure other settings
 
 ## Privacy
 
