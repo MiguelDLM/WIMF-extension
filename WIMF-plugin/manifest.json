@@ -1,0 +1,36 @@
+{
+  "manifest_version": 3,
+  "name": "Where is my fossil?",
+  "short_name": "WIMF",
+  "version": "1.0.0",
+  "description": "Quickly search for fossil information by selecting text on any webpage. The perfect tool for paleontologists and fossil enthusiasts.",
+  "author": "Miguel DLM",
+  "homepage_url": "https://github.com/migueldlm/Where-is-my-fossil",
+  "permissions": [
+    "contextMenus",
+    "storage",
+    "windows"
+  ],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "icons": {
+    "16": "icons/icon-16.png",
+    "32": "icons/icon-32.png",
+    "48": "icons/icon-48.png",
+    "128": "icons/icon-128.png"
+  },
+  "action": {
+    "default_title": "Where is my fossil?",
+    "default_icon": {
+      "16": "icons/icon-16.png",
+      "32": "icons/icon-32.png",
+      "48": "icons/icon-48.png",
+      "128": "icons/icon-128.png"
+    }
+  },
+  "options_ui": {
+    "page": "options.html",
+    "open_in_tab": false
+  }
+}
