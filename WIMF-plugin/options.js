@@ -21,8 +21,8 @@ function saveOptions() {
 // Restore options from Chrome storage
 function restoreOptions() {
   chrome.storage.sync.get({
-    windowWidth: 800,
-    windowHeight: 600
+    windowWidth: 1200,
+    windowHeight: 800
   }, function(items) {
     document.getElementById('windowWidth').value = items.windowWidth;
     document.getElementById('windowHeight').value = items.windowHeight;
