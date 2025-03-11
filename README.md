@@ -8,7 +8,7 @@ A browser extension that allows users to search for fossil information from any 
 
 ## Features
 
-- Right-click on any taxon name to search for it in the Where is my fossil? database
+- Right-click on any taxon name to search for it in the Where is my fossil? website
 - Opens search results in a convenient popup window
 - Customizable window size
 - Simple and fast interface
